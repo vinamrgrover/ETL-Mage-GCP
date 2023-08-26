@@ -116,3 +116,5 @@ CREATE OR REPLACE TABLE airbnb_reviews.FACT_LISTING_INFO(
 ```
 
 ## 3. Setting up Mage on VM Instance
+
+Further, on VM Instance, Mage is set up and the following scripts are used for Data Loader, Transformer, and Data Exporter respectively:
